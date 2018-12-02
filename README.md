@@ -1,7 +1,7 @@
-# TicTacToe
+TicTacToe
 tictactoe android game
 
-# Features:
+Features:
   Statistics:
     To keep track of the gamers victories and loses
   Multiplayer:
